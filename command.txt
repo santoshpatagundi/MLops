@@ -27,7 +27,7 @@ Unit tests"
 
 # Step 4: Add remote (GitHub)
 
-git remote add origin https://github.com/sadiyanaaz/ML_Project.git
+git remote add origin https://github.com/santoshpatagundi/MLops.git
 
 # If already added "origin", first remove it:
 git remote remove origin
